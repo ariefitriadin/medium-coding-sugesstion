@@ -1,6 +1,9 @@
 # medium-coding-sugesstion
 
-n this summary, I list some of the things that have helped me in my career. It reads fast, but applying them well can take a lifetime. I have been developing applications for almost 15 years, and still, sometimes, I have to stop and think in the essential parts of this profession.
+taken from medium :
+[medium 40 tips]https://medium.com/swlh/40-tips-that-will-change-your-coding-skills-forever-bf9d6b936ccc
+
+In this summary, I list some of the things that have helped me in my career. It reads fast, but applying them well can take a lifetime. I have been developing applications for almost 15 years, and still, sometimes, I have to stop and think in the essential parts of this profession.
 
     Take the code and break down big pieces of code into small functions.
     If by the time you leave work you haven’t solved the problem. Turn off the computer and leave it for the next day. Don’t think about the problem anymore.
